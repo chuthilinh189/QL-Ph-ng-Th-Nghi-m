@@ -1,0 +1,293 @@
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\QLPhongThiNghhiem.exe.config
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\QLPhongThiNghhiem.exe
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\QLPhongThiNghhiem.pdb
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.exe.licenses
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.exe
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.pdb
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.FormMain.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCQLNhanVien.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCHTThongTinTaiKhoan.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCQLGiaoVien.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCHTDoiMatKhau.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCDangNhap.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCDangKy.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVHeThongPhong.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVHeThongTrangBi.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVBaiThiNghiem.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVDangKySuDung.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVHoatDongSuDung.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.PhongThiNghiem.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCTKPhongThiNghiem.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCTKLoaiTrangThietBi.resources
+C:\Users\ADMIN\source\repos\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.FormDangXuat.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\QLPhongThiNghhiem.exe.config
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\QLPhongThiNghhiem.exe
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\QLPhongThiNghhiem.pdb
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.SqlServer.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Data.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\EntityFramework.SqlServer.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csproj.AssemblyReference.cache
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.FormMain.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Properties.Resources.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.FormDangXuat.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.PhongThiNghiem.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCDangKy.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCDangNhap.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCHTDoiMatKhau.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCHTThongTinTaiKhoan.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVBaiThiNghiem.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVDangKySuDung.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVHeThongPhong.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVHeThongTrangBi.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCNVHoatDongSuDung.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCQLGiaoVien.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCQLNhanVien.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCTKLoaiTrangThietBi.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.Views.XUCTKPhongThiNghiem.resources
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csproj.GenerateResource.cache
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.exe.licenses
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.csproj.CoreCompileInputs.cache
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.exe
+F:\Study\Năm 4 Kì 2\Nhóm 1 - Chu Thị Linh - QL Phòng Thí Nghiệm\QLPhongThiNghhiem\QLPhongThiNghhiem\obj\Debug\QLPhongThiNghhiem.pdb
